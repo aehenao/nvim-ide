@@ -2,6 +2,7 @@ return {
   {'ryanoasis/vim-devicons'},
   {'nvim-lua/plenary.nvim'},
   {'cljoly/telescope-repo.nvim'},
+  {'sainnhe/gruvbox-material'},
 { "catppuccin/nvim", name = "catppuccin" },
 "MunifTanjim/nui.nvim",
 "folke/twilight.nvim",

@@ -1,4 +1,5 @@
 -- Global
+vim.g.mapleader = ' '
 vim.opt.fillchars = {
   fold = " ",
   foldopen = "",

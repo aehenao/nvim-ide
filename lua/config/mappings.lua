@@ -6,7 +6,7 @@ vim.keymap.set('n', '<F4>', ':set list! list?<CR>', {noremap = false, silent = t
 
 -- <F5> Ranger from toggleterm
 vim.keymap.set('n', '<F6>', ':FocusToggle<CR>', {noremap = false, silent = true})
---vim.keymap.set('n', '<F7>', ':NvimTreeToggle<CR>', {noremap = false, silent = true})
+vim.keymap.set('n', '<F7>', ':NvimTreeToggle<CR>', {noremap = false, silent = true})
 vim.keymap.set('n', '<F8>', ':ZenMode<CR>', {noremap = false, silent = true})
 --vim.keymap.set('n', '<leader>nm', ':Dispatch npm start<CR>', {noremap = false, silent = true})
 

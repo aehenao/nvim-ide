@@ -7,4 +7,5 @@ require('config.settings')
 -- KeyMap
 require('config.mappings')
 
-vim.cmd.colorscheme "catppuccin"
+-- Select Theme
+require('config.colorschemes.gruvbox')
