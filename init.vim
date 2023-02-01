@@ -1,3 +1,3 @@
 lua require('init')
 
-colorscheme catppuccin-macchiato
+"colorscheme catppuccin-macchiato
