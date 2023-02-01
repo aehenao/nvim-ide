@@ -3,6 +3,6 @@ if vim.fn.has('unix') == 1 then
   if uname == "Darwin\n" then
     vim.opt.guifont = 'JetBrains Mono:h11'
   else
-    vim.opt.guifont = 'JetBrains Mono 8'
+    vim.opt.guifont = 'JetBrainsMono Nerd Font'
   end
 end

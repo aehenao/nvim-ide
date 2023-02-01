@@ -1,4 +1,5 @@
 return {
+  {'ryanoasis/vim-devicons'},
 { "catppuccin/nvim", name = "catppuccin" },
 "MunifTanjim/nui.nvim",
 "folke/twilight.nvim",

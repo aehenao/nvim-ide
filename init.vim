@@ -1,3 +1,4 @@
 lua require('init')
 
-"colorscheme catppuccin-macchiato
+set termguicolors
+colorscheme catppuccin-macchiato
