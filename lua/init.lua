@@ -9,3 +9,6 @@ require('config.mappings')
 
 -- Select Theme
 require('config.colorschemes.gruvbox')
+
+--Config Terminal
+require('config.terminal')
