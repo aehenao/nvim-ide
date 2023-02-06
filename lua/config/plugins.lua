@@ -4,6 +4,8 @@ return {
   {'cljoly/telescope-repo.nvim'},
   {'sainnhe/gruvbox-material'},
   { "catppuccin/nvim", name = "catppuccin" },
+  {"olimorris/onedarkpro.nvim",
+  priority = 1000 },
   "MunifTanjim/nui.nvim",
   "folke/twilight.nvim",
   "neovim/nvim-lspconfig",
