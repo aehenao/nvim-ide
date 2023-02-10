@@ -41,4 +41,4 @@ vim.api.nvim_create_autocmd('ColorScheme', {
   'hi CursorLineNr                       guifg=#d8a657 |' ..
   'hi CodewindowBorder                   guifg=#ea6962 |'
 })
-vim.cmd'colorscheme gruvbox-material'
+-- vim.cmd'colorscheme gruvbox-material'

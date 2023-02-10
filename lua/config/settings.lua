@@ -1,5 +1,8 @@
 -- Global
 vim.g.mapleader = ' '
+-- THEME
+vim.cmd("colorscheme onedark")
+
 vim.opt.fillchars = {
   fold = " ",
   foldopen = "",
