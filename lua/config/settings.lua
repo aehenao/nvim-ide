@@ -1,5 +1,3 @@
--- Global
-vim.g.mapleader = ' '
 -- THEME
 vim.cmd("colorscheme onedark")
 

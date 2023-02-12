@@ -1,3 +1,6 @@
+-- Global
+vim.g.mapleader = ' '
+
 require('config.lazy')
 require('config.color')
 require('config.completion')
